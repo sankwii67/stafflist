@@ -1,0 +1,29 @@
+{
+  "staffnotify.notification.join": "[Staff Notification] -> %s, Зашел на сервер",
+  "staffnotify.notification.leave": "[Staff Notification] -> %s, Вышел с сервера",
+
+  "staffnotify.command.add.success": "[StaffNotify] %s добавлен в список стаффа.",
+  "staffnotify.command.add.already": "[StaffNotify] %s уже есть в списке.",
+  "staffnotify.command.remove.success": "[StaffNotify] %s удалён из списка стаффа.",
+  "staffnotify.command.remove.notfound": "[StaffNotify] %s не найден в списке.",
+  "staffnotify.command.list.empty": "[StaffNotify] Список стаффа пуст.",
+  "staffnotify.command.list.header": "[StaffNotify] Стафф (%d): ",
+  "staffnotify.command.config.saved": "[StaffNotify] Конфиг сохранён.",
+  "staffnotify.command.config.saved.name": "[StaffNotify] Конфиг сохранён как: %s",
+  "staffnotify.command.config.loaded": "[StaffNotify] Конфиг загружен.",
+  "staffnotify.command.config.loaded.name": "[StaffNotify] Конфиг загружен: %s",
+  "staffnotify.command.config.dir.show": "[StaffNotify] Директория конфига: %s",
+  "staffnotify.command.config.dir.changed": "[StaffNotify] Директория изменена на: %s",
+  "staffnotify.command.config.dir.invalid": "[StaffNotify] Неверный путь: %s",
+  "staffnotify.command.config.dir.opened": "[StaffNotify] Папка с конфигами открыта.",
+  "staffnotify.command.config.dir.open.failed": "[StaffNotify] Не удалось открыть папку с конфигами.",
+
+  "staffnotify.config.title": "Staff Notify — Настройки",
+  "staffnotify.config.category.general": "Общие",
+  "staffnotify.config.sound_join": "Звук входа",
+  "staffnotify.config.sound_join.tooltip": "Воспроизводить звук при входе стафф-игрока",
+  "staffnotify.config.sound_leave": "Звук выхода",
+  "staffnotify.config.sound_leave.tooltip": "Воспроизводить звук при выходе стафф-игрока",
+  "staffnotify.config.join_notification": "Уведомление о входе",
+  "staffnotify.config.leave_notification": "Уведомление о выходе"
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "staffnotify",
+  "version": "${version}",
+  "name": "Staff Notify",
+  "description": "  ",
+  "authors": ["Sankwii"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/staffnotify/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.staffnotify.StaffNotifyMod"],
+    "modmenu": ["com.staffnotify.config.StaffNotifyModMenuIntegration"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "cloth-config2": "*",
+    "modmenu": "*"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "staff_join": {
+    "sounds": [
+      {
+        "name": "staffnotify:staff_join",
+        "type": "file"
+      }
+    ]
+  },
+  "staff_leave": {
+    "sounds": [
+      {
+        "name": "staffnotify:staff_leave",
+        "type": "file"
+      }
+    ]
+  }
+}

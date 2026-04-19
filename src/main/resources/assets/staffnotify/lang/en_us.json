@@ -1,0 +1,29 @@
+{
+  "staffnotify.notification.join": "[Staff Notification] -> %s, joined the server",
+  "staffnotify.notification.leave": "[Staff Notification] -> %s, left the server",
+
+  "staffnotify.command.add.success": "[StaffNotify] %s added to staff list.",
+  "staffnotify.command.add.already": "[StaffNotify] %s is already in the list.",
+  "staffnotify.command.remove.success": "[StaffNotify] %s removed from staff list.",
+  "staffnotify.command.remove.notfound": "[StaffNotify] %s was not found in the list.",
+  "staffnotify.command.list.empty": "[StaffNotify] Staff list is empty.",
+  "staffnotify.command.list.header": "[StaffNotify] Staff (%d): ",
+  "staffnotify.command.config.saved": "[StaffNotify] Config saved.",
+  "staffnotify.command.config.saved.name": "[StaffNotify] Config saved as: %s",
+  "staffnotify.command.config.loaded": "[StaffNotify] Config loaded.",
+  "staffnotify.command.config.loaded.name": "[StaffNotify] Config loaded: %s",
+  "staffnotify.command.config.dir.show": "[StaffNotify] Config directory: %s",
+  "staffnotify.command.config.dir.changed": "[StaffNotify] Directory changed to: %s",
+  "staffnotify.command.config.dir.invalid": "[StaffNotify] Invalid path: %s",
+  "staffnotify.command.config.dir.opened": "[StaffNotify] Config directory opened.",
+  "staffnotify.command.config.dir.open.failed": "[StaffNotify] Failed to open config directory.",
+
+  "staffnotify.config.title": "Staff Notify — Settings",
+  "staffnotify.config.category.general": "General",
+  "staffnotify.config.sound_join": "Join Sound",
+  "staffnotify.config.sound_join.tooltip": "Play sound when a staff member joins the server",
+  "staffnotify.config.sound_leave": "Leave Sound",
+  "staffnotify.config.sound_leave.tooltip": "Play sound when a staff member leaves the server",
+  "staffnotify.config.join_notification": "Join Notification",
+  "staffnotify.config.leave_notification": "Leave Notification"
+}
